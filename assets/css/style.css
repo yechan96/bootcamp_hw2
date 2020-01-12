@@ -22,7 +22,7 @@ header{
     position: relative;
     height: 80px;
     box-sizing: border-box;
-    width: 960px;
+    max-width: 960px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -59,7 +59,7 @@ a:link, a:visited{
     background-color: #ffffff;
     margin-top: 40px;
     position: relative;
-    width: 960px;
+    max-width: 960px;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid #dddddd;
